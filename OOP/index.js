@@ -60,7 +60,7 @@ let userFld = document.getElementById('user');
 let statusFld = document.getElementById('score');
 
 // Functional approach does not mutate data and uses more generic functions. 
-// Break larger tasks into smaller functions and then join them. 'Intention revealing' name
+// Break larger tasks into smaller functions that do one thing and then join them. 'Intention revealing' name
 const createUser = function(id) {
     return {
         userId: id,
