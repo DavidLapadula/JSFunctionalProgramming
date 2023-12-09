@@ -1,5 +1,5 @@
 # JSFunctionalProgramming
-Course covering Functional Programming in JavaScript
+Course covering Functional Programming in JavaScript. 
 
 ## Topics Included
 
