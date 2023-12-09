@@ -11,5 +11,4 @@ Course covering Functional Programming in JavaScript.
 > Declarative vs Imperative Programming
 > OOP Compared to Functional Programming
 > Lodash
-> Ramda
 ```
